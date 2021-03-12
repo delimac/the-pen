@@ -5,7 +5,7 @@ body {
 section {
   background-attachment: fixed;
   background-color: #ffffff;
-	background-image: url(../img/the-pen.svg)
+	background-image: url(..img/the-pen.svg);
   background-position: center;
   background-size: cover;
   height: 100vh;
@@ -14,22 +14,22 @@ section {
 
 .mighty_2 {
   background-color: #000000;
-  background-image: url(../img/is-mightier.svg);
+  background-image: url(..img/is-mightier.svg);
 }
 
 .mighty_3 {
   background-color: #ffffff;
-  background-image: url(../than.svg);
+  background-image: url(..img/than.svg);
 }
 
 .mighty_4 {
   background-color: #000000;
-  background-image: url(../img/the-sword.svg);
+  background-image: url(..img/the-sword.svg);
 }
 
 .mighty_5 {
   background-color: #00f10a;
-  background-image: url(../img/end.svg);
+  background-image: url(..img/end.svg);
 }
 
 footer {
